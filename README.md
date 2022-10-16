@@ -1,9 +1,19 @@
-Web 3.0
+Project ENCRYPT
 
-Project Metaverse: A realtime chat Dapp(decentralized application) based on Web3.0 and Blockchain.
-
+A realtime identity management chat Dapp(decentralized application) based on Web3.0 and Blockchain.
 
 Problem Statement
+
+Identity management
+
+-->Identity management (IdM), also known as identity and access management (IAM) ensures that authorized people – and only authorized people – have access to the technology resources they need to perform their job functions.
+
+--> Identity and access management (IAM) is a framework of business processes, policies and technologies that makes it easier for organizations to manage electronic or digital identities.
+
+--> Identity management is a method of verifying the identities of network entities and the level of access for enterprise network resources. It helps keep IT systems, networks, and data secure.
+
+--> Identity management includes authenticating users and determining whether they're allowed access to particular systems.
+
 
 The privacy issues in a time where digital life is almost consuming us is a grave threat.
 
